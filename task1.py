@@ -4,12 +4,12 @@ def show_up(event):
     lbl['text'] = "верх"
 
 def show_down(event):
-        global lbl
-        lbl['text'] = "низ"
+    global lbl
+    lbl['text'] = "низ"
 
 def show_left(event):
-            global lbl
-            lbl['text'] = "лево"
+    global lbl
+    lbl['text'] = "лево"
 
 
 def show_right(event):
